@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Hazy Banner" width="100%">
-</p>
+![Header](./banner.png)
 # Hello! Hazy here 👋
 
 🎓 Student | Learning Python 🐍
