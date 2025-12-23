@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="Hazy Banner" width="100%">
+  <img src="banner.png" alt="Hazy Banner" width="100%">
 </p>
 # Hello! Hazy here 👋
 
