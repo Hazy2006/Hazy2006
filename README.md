@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="github-header-banner.png" alt="Hazy Banner" width="100%">
+</p>
+# Hello! Hazy here 👋
 
-<!--
-**Hazy2006/Hazy2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Learning Python 🐍
+---
 
-Here are some ideas to get you started:
+## About Me
+I’m a student currently learning **Python**.  
+I enjoy experimenting with small projects and improving my coding skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech & Tools
+- Python  
+- Git & GitHub  
+- VS Code (soon)  
+
+---
+
+## Projects
+I’m currently working on beginner Python projects:  
+- Small scripts and exercises  
+- Practice projects to learn fundamentals  
+
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazy2006&show_icons=true&theme=default)
+
+---
+
+## Contact
+- GitHub: [@Hazy2006](https://github.com/Hazy2006)
