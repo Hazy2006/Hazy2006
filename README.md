@@ -1,4 +1,3 @@
-![Header](./banner.png)
 # Hello! Hazy here 👋
 
 🎓 Student | Learning Python 🐍
