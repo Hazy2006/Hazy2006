@@ -21,6 +21,8 @@ I’m currently working on beginner Python projects:
 - Small scripts and exercises  
 - Practice projects to learn fundamentals  
 
+Also, I'm working on projects regarding the use of AI
+(coming soon..)
 ---
 
 ## GitHub Stats
