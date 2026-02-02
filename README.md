@@ -1,5 +1,7 @@
 # 👋 Hey! I’m Hazy
 
+> Currently learning, occasionally confused, always curious.
+
 🎓 CS Student | 🐍 Learning Python | 🤖 Curious about AI  
 
 ---
