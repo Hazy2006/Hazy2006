@@ -1,34 +1,47 @@
-# Hello! Hazy here 👋
+# 👋 Hey! I’m Hazy
 
-🎓 Student | Learning Python 🐍
+🎓 CS Student | 🐍 Learning Python | 🤖 Curious about AI  
+
 ---
 
 ## About Me
-I’m a student currently learning **Python**.  
-I enjoy experimenting with small projects and improving my coding skills step by step.
+
+I’m a computer science student currently learning **Python** and building my skills step by step.  
+I enjoy experimenting with small projects, breaking things, fixing them, and learning along the way.
+
+No rush — just progress.
 
 ---
 
-## Tech & Tools
+## 🛠 Tech & Tools
+
 - Python  
 - Git & GitHub  
-- VS Code (soon)  
+- VS Code (learning soon 👀)  
+- Basic C++ (student level)
 
 ---
 
-## Projects
-I’m currently working on beginner Python projects:  
-- Small scripts and exercises  
-- Practice projects to learn fundamentals  
+## 📂 What I’m Working On
 
-Also, I'm working on projects regarding the use of AI
-(coming soon..)
----
+- Small Python scripts and exercises  
+- Practice projects to understand fundamentals  
+- Exploring AI-related ideas and tools (early stage)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazy2006&show_icons=true&theme=default)
+Nothing fancy yet — just learning by doing.
 
 ---
 
-## Contact
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazy2006&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
 - GitHub: [@Hazy2006](https://github.com/Hazy2006)
+
+---
+
+> Still learning. Still curious. Still building.
