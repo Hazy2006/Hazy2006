@@ -34,12 +34,6 @@ Nothing fancy yet — just learning by doing.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazy2006&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - GitHub: [@Hazy2006](https://github.com/Hazy2006)
