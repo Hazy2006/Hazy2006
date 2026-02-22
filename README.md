@@ -64,8 +64,6 @@ The goal is a benchmark for how far workflow tooling can push repetitive documen
 | **AI Tools Dashboard** | WIP — Notion-powered dashboard with n8n automation and JSON export for managing AI utilities. | n8n, Notion, Python |
 | **PDF Workflow Benchmark** | Concept under research — automating repetitive PDF operations (convert, merge, upload) in Nitro Pro down to minimal interaction. Feasibility still being scoped. | Python, n8n, TBD |
 
-> Repositories being cleaned up and made public progressively.
-
 ---
 
 ## Principles
