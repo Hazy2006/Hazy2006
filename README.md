@@ -7,7 +7,7 @@ I study computer science and build things on the side. My coursework spans syste
 
 ### currently studying
 `OOP in C++` `Data structures & algorithms` `Graph theory`
-`Operating systems` `Geometry & linear algebra` `Dynamical systems`
+`Operating systems` 
 
 ---
 
