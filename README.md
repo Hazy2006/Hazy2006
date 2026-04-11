@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=CS+student+%40+BBU;Building+tools+that+matter;Systems+%2B+Automation)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=CS+student+%40+BBU;Building+tools+that+matter;Systems+%2B+Automation)]
 
 ## Hathazi Alexandru-Ioan (a.k.a. Hazi)
 CS student · Babeș-Bolyai University, Cluj-Napoca
