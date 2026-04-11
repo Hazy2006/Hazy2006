@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=CS+student+%40+BBU;Building+tools+that+matter;Systems+%2B+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=CS+student+%40+BBU;Building+tools+that+matter;Systems+%2B+Automation)]
 
-## Hathazi Alexandru-Ioan
+## Hathazi Alexandru-Ioan (a.k.a. Hazi)
 CS student · Babeș-Bolyai University, Cluj-Napoca
 
 I'm more interested in what software does for people than in the software itself —
