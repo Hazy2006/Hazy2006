@@ -1,26 +1,30 @@
-## Hi, I'm Hazi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=CS+student+%40+BBU;Building+tools+that+matter;Systems+%2B+Automation)](https://git.io/typing-svg)
+
+## Hathazi Alexandru-Ioan
 CS student · Babeș-Bolyai University, Cluj-Napoca
 
-I study computer science and build things on the side. My coursework spans systems programming, algorithms, and formal math — I also co-found an AI automation venture where I handle the technical architecture.
+I'm more interested in what software does for people than in the software itself —
+I build because it's the fastest way to make something real.
+My coursework spans systems programming, algorithms, and formal math.
+I also co-found an AI automation venture where I handle the technical architecture.
 
 ---
 
 ### currently studying
-`OOP in C++` `Data structures & algorithms` `Graph theory`
-`Operating systems` 
+`OOP in C++` `Data structures & algorithms` `Graph theory` `Operating systems`
 
 ---
 
 ### projects
 
 **[VizEx](https://github.com/Hazy2006/VizEx)** `active`
-Real-time C++ execution visualizer — think Python Tutor but for C++
+Real-time C++ execution visualizer — think Python Tutor but for C++. Parses AST via libclang, renders interactive call graphs in the browser with D3.js.
 
 **[gomoku-ai](https://github.com/Hazy2006/gomoku-ai)** `shipped`
-GUI Gomoku game with a minimax AI opponent and adjustable difficulty
+GUI Gomoku game with a minimax AI opponent and adjustable difficulty levels.
 
 **BBU lab series** `ongoing`
-OOP, DSA, and Graphs coursework in C++ and Python
+OOP, DSA, and Graphs coursework in C++ and Python — layered architecture, ADTs, graph algorithms.
 
 ---
 
