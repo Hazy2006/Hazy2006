@@ -22,7 +22,7 @@ Real-time C++ execution visualizer. Upload a `.cpp` file, get an interactive cal
 Curated directory of 90 AI tools with category filters, live search, and pricing. Flask REST API backend, Notion → n8n → Python CMS pipeline, deployed on Render with auto-deploy on push.
 
 **[gomoku-ai](https://github.com/Hazy2006/gomoku-ai)** `shipped`
-GUI Gomoku game with a minimax AI opponent, alpha-beta pruning, and 3 difficulty levels. ~1,000 lines, nominated for Best-of-FP by lab professor.
+GUI Gomoku game with a minimax AI opponent, alpha-beta pruning, and 3 difficulty levels. 
 
 **BBU lab series** `ongoing`
 OOP, DSA, and Graphs coursework in C++ and Python — layered architecture, ADTs, graph algorithms, shell scripting. All public.
