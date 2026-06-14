@@ -18,7 +18,7 @@ I care more about what software does for people than the software itself — I b
 **[VizEx](https://github.com/Hazy2006/VizEx)** `active`
 Real-time C++ execution visualizer. Upload a `.cpp` file, get an interactive call graph. Think Python Tutor but for C++ — parses AST, renders function relationships with D3.js. Built because nothing like this existed for the tools I use daily.
 
-**[AI Command Center](https://ai-stuff-5te1.onrender.com)** `live`
+**[AI Command Center](https://ai-stuff-5te1.onrender.com)** `archived`
 Curated directory of 90 AI tools with category filters, live search, and pricing. Flask REST API backend, Notion → n8n → Python CMS pipeline, deployed on Render with auto-deploy on push.
 
 **[gomoku-ai](https://github.com/Hazy2006/gomoku-ai)** `shipped`
