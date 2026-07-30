@@ -15,17 +15,13 @@ I care more about what software does for people than the software itself — I b
 
 ### projects
 
-**[VizEx](https://github.com/Hazy2006/VizEx)** `active`
-Real-time C++ execution visualizer. Upload a `.cpp` file, get an interactive call graph. Think Python Tutor but for C++ — parses AST, renders function relationships with D3.js. Built because nothing like this existed for the tools I use daily.
+**[PitWall](https://github.com/Hazy2006/PitWall)** `active` F1 championship predictor in C++ — simulates the season thousands of times to estimate each driver's title odds from real race data. Graph engine, Markov-chain race modeling, and a SQLite data pipeline over real 2024 results.
 
 **[gomoku-ai](https://github.com/Hazy2006/gomoku-ai)** `shipped`
 GUI Gomoku game with a minimax AI opponent, alpha-beta pruning, and 3 difficulty levels. 
 
 **BBU lab series** `ongoing`
 OOP, DSA, and Graphs coursework in C++ and Python — layered architecture, ADTs, graph algorithms, shell scripting. All public.
-
-**[AI Command Center]** `archived`
-Curated directory of 90 AI tools with category filters, live search, and pricing. Flask REST API backend, Notion → n8n → Python CMS pipeline, deployed on Render with auto-deploy on push.
 
 ---
 
