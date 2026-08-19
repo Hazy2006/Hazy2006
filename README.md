@@ -17,6 +17,9 @@ I care more about what software does for people than the software itself — I b
 
 **[PitWall](https://github.com/Hazy2006/PitWall)** `active` F1 championship predictor in C++ — simulates the season thousands of times to estimate each driver's title odds from real race data. Graph engine, Markov-chain race modeling, and a SQLite data pipeline over real 2024 results.
 
+**[Magnetica](https://github.com/Hazy2006/Magnetica)** `shipped`
+Interactive 2D charged-particle simulator in Python — dual physics modes (magnetic Lorentz force and orbital attraction), live orbit analysis, and from-scratch numerical integration.
+
 **[gomoku-ai](https://github.com/Hazy2006/gomoku-ai)** `shipped`
 GUI Gomoku game with a minimax AI opponent, alpha-beta pruning, and 3 difficulty levels. 
 
