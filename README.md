@@ -35,4 +35,4 @@ OOP, DSA, and Graphs coursework in C++ and Python — layered architecture, ADTs
 
 ---
 
-📍 Cluj-Napoca, Romania · [LinkedIn](https://linkedin.com/in/alexandru-hathazi)
+📍 Cluj-Napoca, Romania 
